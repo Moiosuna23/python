@@ -1,0 +1,5 @@
+print ("ingrese 2 numeros para hacer una division")
+num1 =  float (input())
+num2 = float (input())
+resultado = float (num1 / num2)
+print (resultado)
